@@ -1,0 +1,50 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{MCH4 Opdracht 1}
+\author{16112407 }
+\date{March 2021}
+
+\begin{document}
+
+\maketitle
+
+\section{Totaal}
+\subsection{Moment om $S_1$} 
+
+$\sum M_{S_1}=\sum {M_{S_2}}+M_{F_1}+M_{F_2}+M_{F_3}=0 \\
+\sum {M_{S_2}}=S_{2_x}\cdot10+F_1\cdot6\cdot3+F_2\cdot7\cdot3+F_3\cdot6.5\cdot3=0$ \\
+with $\vec F_1=\vec F_2=\vec F_3=-110 kN$ \\
+so, \\
+$S_{2_x}=\frac{58.5}{10}\cdot F_1=\frac{58.5}{10}\cdot 110=643.5kN$ \\
+
+\subsection{Balans totaal $F_x$} \\
+$\sum F_{x_{tot}}=F_{S_{1x}}+F_{S_{2x}}=0 \\
+F_{S_{1x}}=-F_{S_{2x}}=-643.5 kN $\\
+
+\subsection{Balans totaal $F_y$} \\
+Kan pas later ingevuld worden  \\
+
+\section{Joint A}
+\subsection{$F_{AB}$}
+$\sum \vec F_{y_{A}}=\vec F_{AB_{y}}+\vec F_1=0 \\
+\vec F_{AB_{y}}=-\vec F_{1}=-110 kN \\
+\vec F_{AB_{y}}=F_{AB}\cdot \frac{2}{2.5} \\
+F_{AB}\cdot \frac{2}{2.5}=-\vec F_1 \\
+F_{AB}=|-\vec F_1\cdot \frac{2.5}{2}| \\
+F_{AB}=|110\cdot \frac{2.5}{2}|=137.5 kN$ \\
+
+\subsection{$F_{AC}$}
+$\sum \vec F_{x_{A}}=\vec F_{AC}+\vec F_{AB,x}=0 \\
+\vec F_{AB_{x}}=\vec F_{AB_{y}}\cdot \frac{1.5}{2}=-110\cdot \frac{1.5}{2}=82.5 kN \\
+\vec F_{AC}=-\vec F_{AB,x}=-82.5 kN$
+
+}
+
+
+
+\end{document}
+
+
+
+
