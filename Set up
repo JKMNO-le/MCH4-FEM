@@ -1,0 +1,7 @@
+echo "# MCH4-FEM" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JKMNO-le/MCH4-FEM.git
+git push -u origin main
